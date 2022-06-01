@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'wingsico's blog',
   domain: 'https://economic-gargoyle-475.notion.site/Blog-d9333f2ae765409a96d7c8c3de97e5cd',
-  author: 'Travis Fischer',
+  author: 'wingsico',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'A Site for Writing',
 
   // social usernames (optional)
   twitter: '',
