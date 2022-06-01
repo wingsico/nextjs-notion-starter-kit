@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wingsico's blog',
+  name: 'wingsico\'s blog',
   domain: 'https://economic-gargoyle-475.notion.site/Blog-d9333f2ae765409a96d7c8c3de97e5cd',
   author: 'wingsico',
 
